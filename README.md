@@ -1,5 +1,5 @@
 # TranslaTale
-TranslaTale - An Undertale translation helper!
+TranslaTale - An Undertale translation helper![![Coverage Status](https://coveralls.io/repos/github/Droobledores/TranslaTale/badge.svg?branch=master)](https://coveralls.io/github/Droobledores/TranslaTale?branch=master)
 
 This little tool is aimed to translators and modders.
 
@@ -34,7 +34,7 @@ Thanks to Carlo Refice for contributing with a good bunch of features, and some 
 https://github.com/CRefice/
 
 ====================
-Thanks to FJay69 for your great UndertaleTools toolkit. You rocks, man!
+Thanks to FJay69 for your great UndertaleTools toolkit. You rock, man!
 
 https://github.com/fjay69/UndertaleTools
 
