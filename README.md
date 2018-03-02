@@ -1,6 +1,6 @@
 # TranslaTale
 TranslaTale - An Undertale translation helper! 
-[![Coverage Status](https://coveralls.io/repos/github/Droobledores/TranslaTale/badge.svg?branch=master)](https://coveralls.io/github/Droobledores/TranslaTale?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/o0yr5w98pnw4ws6b?svg=true)](https://ci.appveyor.com/project/Droobledores/translatale)
 
 Compiling TranslaTale
 ====================
